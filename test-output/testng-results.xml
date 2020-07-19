@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16007" started-at="2020-07-20T01:04:11 CEST" finished-at="2020-07-20T01:04:27 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16007" started-at="2020-07-20T01:04:11 CEST" finished-at="2020-07-20T01:04:27 CEST">
+      <class name="test.AminaPezTest">
+        <test-method status="PASS" signature="AminaPezLogin()[pri:0, instance:test.AminaPezTest@3224f60b]" name="AminaPezLogin" is-config="true" duration-ms="11332" started-at="2020-07-20T01:04:11 CEST" finished-at="2020-07-20T01:04:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AminaPezLogin -->
+        <test-method status="PASS" signature="ClickHideButton()[pri:1, instance:test.AminaPezTest@3224f60b]" name="ClickHideButton" duration-ms="79" started-at="2020-07-20T01:04:22 CEST" finished-at="2020-07-20T01:04:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickHideButton -->
+        <test-method status="PASS" signature="stayOnLoginPage()[pri:0, instance:test.AminaPezTest@3224f60b]" name="stayOnLoginPage" is-config="true" duration-ms="1343" started-at="2020-07-20T01:04:22 CEST" finished-at="2020-07-20T01:04:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayOnLoginPage -->
+        <test-method status="PASS" signature="IsCheckboxDisabled()[pri:2, instance:test.AminaPezTest@3224f60b]" name="IsCheckboxDisabled" duration-ms="31" started-at="2020-07-20T01:04:23 CEST" finished-at="2020-07-20T01:04:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsCheckboxDisabled -->
+        <test-method status="PASS" signature="stayOnLoginPage()[pri:0, instance:test.AminaPezTest@3224f60b]" name="stayOnLoginPage" is-config="true" duration-ms="549" started-at="2020-07-20T01:04:23 CEST" finished-at="2020-07-20T01:04:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayOnLoginPage -->
+        <test-method status="PASS" signature="GetAllCheckbox()[pri:3, instance:test.AminaPezTest@3224f60b]" name="GetAllCheckbox" duration-ms="24" started-at="2020-07-20T01:04:24 CEST" finished-at="2020-07-20T01:04:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllCheckbox -->
+        <test-method status="PASS" signature="stayOnLoginPage()[pri:0, instance:test.AminaPezTest@3224f60b]" name="stayOnLoginPage" is-config="true" duration-ms="563" started-at="2020-07-20T01:04:24 CEST" finished-at="2020-07-20T01:04:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayOnLoginPage -->
+        <test-method status="PASS" signature="RadioButtonSelected()[pri:4, instance:test.AminaPezTest@3224f60b]" name="RadioButtonSelected" duration-ms="71" started-at="2020-07-20T01:04:25 CEST" finished-at="2020-07-20T01:04:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButtonSelected -->
+        <test-method status="PASS" signature="stayOnLoginPage()[pri:0, instance:test.AminaPezTest@3224f60b]" name="stayOnLoginPage" is-config="true" duration-ms="554" started-at="2020-07-20T01:04:25 CEST" finished-at="2020-07-20T01:04:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayOnLoginPage -->
+        <test-method status="PASS" signature="ClickPromptboxButton()[pri:5, instance:test.AminaPezTest@3224f60b]" name="ClickPromptboxButton" duration-ms="199" started-at="2020-07-20T01:04:25 CEST" finished-at="2020-07-20T01:04:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickPromptboxButton -->
+        <test-method status="PASS" signature="stayOnLoginPage()[pri:0, instance:test.AminaPezTest@3224f60b]" name="stayOnLoginPage" is-config="true" duration-ms="550" started-at="2020-07-20T01:04:25 CEST" finished-at="2020-07-20T01:04:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayOnLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AminaPezTest@3224f60b]" name="tearDown" is-config="true" duration-ms="675" started-at="2020-07-20T01:04:26 CEST" finished-at="2020-07-20T01:04:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AminaPezTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
